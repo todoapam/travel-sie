@@ -1,0 +1,20 @@
+ # Extensiones a ignorar
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.sass-cache/
+node_modules/
+.tmp
+
+# Sistemas operativos
+.directory
+.DS_Store
+Thumbs.db
+.project
+.settings
